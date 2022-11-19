@@ -18,7 +18,7 @@
     "react-dom": "^16.9.0",
     "react-loading": "latest",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.2",
+    "react-scripts": "5.0.1",
     "tripetto": "^1.8.5",
     "tripetto-collector": "^1.7.0",
     "tripetto-collector-rolling": "^2.1.13",
